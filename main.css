@@ -1,0 +1,26 @@
+/*A*/
+.div_A1{
+    width: 20px;
+    height: 90px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background: #FF0000;
+    transform: skew(-20deg);
+}
+.div_A2{
+    width: 40px;
+    height: 15px;
+    background: #FF0000;
+    margin-top: -40px;
+    margin-left: 25px;
+}
+.div_A3{
+    width: 20px;
+    height: 90px;
+    margin-top: -65px;
+    margin-left: 55px;
+    background: #FF0000;
+    transform: skew(20deg);
+}
+
+/*B*/
